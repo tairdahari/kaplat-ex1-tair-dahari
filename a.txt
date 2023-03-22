@@ -1,1 +1,3 @@
 file num1
+step G
+step O
